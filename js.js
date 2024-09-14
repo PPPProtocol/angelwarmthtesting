@@ -1,14 +1,3 @@
-// ==UserScript==
-// @name         ㅤ reset
-// @namespace    http://tampermonkey.net/
-// @version      1.8
-// @description  https://discord.gg/W7FqFC9H7H
-// @author       Protocol
-// @icon         https://i.ibb.co/4tMzjbN/image-3.png
-// @match        https://vanis.io/
-// @grant        none
-// ==/UserScript==
-
 function startTimer() {
 
 let smallContainer, toggleUkkoTheme, section, privacyLink, tosLink, moveLinksCheckbox, hideSocialContainerCheckbox, toggleDateCheckbox, togglePressedKeysCheckbox, toggleMousePos, toggleReverseMenu, toggleAccountBelow, dateElement, minimapStatsElement;
